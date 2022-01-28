@@ -16,4 +16,4 @@ I'm sure there are more sophisticated control algorithms out there but there's e
 
 * It's pretty fun to fly!
 
-![simulator animated gif](Simulator sample.gif)
+![simulator animated gif](sample.gif)
