@@ -6,7 +6,7 @@ This is inspried by a presentation by Ryan Boland [Embedded Programming for Quad
 
 I'm sure there are more sophisticated control algorithms out there but there's enough here to get a good idea of how things work without overly simplifying things.
 
-* Requires an Xbox controller, which is setup with a standard quad copter control scheme. Y button switches to FPV. B button resets to starting position.
+* Requires an Xbox controller, which is setup with a standard quad copter control scheme. A button switches to FPV. Y button resets to starting position.
 
 * Simulates the use of a gyro by integrating rigid body's angular velocity to get orienation, assuming no drift.
 
